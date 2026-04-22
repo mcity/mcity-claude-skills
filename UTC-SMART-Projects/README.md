@@ -38,7 +38,7 @@ In the Settings sidebar, click **Skills** (sometimes listed under "Customization
 ### Step 3 — Upload the skill file
 
 1. Click **Add skill** or **Upload skill**
-2. Select the file `transportation-research-aggregator.skill` from your computer [Download] https://github.com/mcity/mcity-claude-skills/blob/main/UTC-SMART-Projects/transportation-research-aggregator.skill
+2. Select the file `transportation-research-aggregator.skill` from your computer [Download](https://github.com/mcity/mcity-claude-skills/blob/main/UTC-SMART-Projects/transportation-research-aggregator.skill)
 3. Claude will validate the file and show a confirmation — click **Install**
 
 The skill is now active in your account.
