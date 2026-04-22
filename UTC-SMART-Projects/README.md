@@ -39,7 +39,9 @@ In the Settings sidebar, click **Skills** (sometimes listed under "Customization
 
 1. Click **Add skill** or **Upload skill**
 2. Select the file `transportation-research-aggregator.skill` from your computer [![Download](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white)](https://github.com/mcity/mcity-claude-skills/blob/main/UTC-SMART-Projects/transportation-research-aggregator.skill)
-3. Claude will validate the file and show a confirmation — click **Install**
+> **Note:** You can click the download icon if it is not automatically downloaded <img width="327" height="112" alt="image" src="https://github.com/user-attachments/assets/0b52938c-1f7d-4ad1-a759-9cecc565d8ba" />
+
+4. Claude will validate the file and show a confirmation — click **Install**
 
 The skill is now active in your account.
 
