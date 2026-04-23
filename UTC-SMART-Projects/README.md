@@ -49,7 +49,8 @@ The skill is now active in your account.
 
 ## How to use it
 
-Once installed, simply describe what you want in any Claude conversation. Example prompts that trigger this skill:
+Once installed, simply describe what you want in any Claude conversation. Example prompts that trigger this skill (Use one of these prompts in a new chat
+):
 ```
 /transportation-research-aggregator search for LiDAR
 ```
